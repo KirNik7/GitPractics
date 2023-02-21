@@ -1,1 +1,1 @@
-Try again pull requests.
+This text file was created to consolidate the sequence of actions during the Pull Request procedure.
